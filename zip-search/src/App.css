@@ -4,3 +4,37 @@
   color: white;
   text-align: center;
 }
+
+.app{
+  
+}
+
+.zip-input{
+
+}
+
+.city-container{
+  border: 1px solid black;
+  margin: 10px auto;
+  width: 400px;
+
+}
+
+.header{
+  padding: 10px;
+  background-color: #ededed;
+}
+
+.content{
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.App-header{
+  margin-bottom: 20px;
+}
+
+.zip-input{
+  text-align: center;
+}
+
