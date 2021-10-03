@@ -1,0 +1,40 @@
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.app{
+  
+}
+
+.zip-input{
+
+}
+
+.ZipCode-container{
+  border: 1px solid black;
+  margin: 10px auto;
+  width: 400px;
+
+}
+
+.header{
+  padding: 10px;
+  background-color: #ededed;
+}
+
+.content{
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.App-header{
+  margin-bottom: 20px;
+}
+
+.city-input{
+  text-align: center;
+}
+
